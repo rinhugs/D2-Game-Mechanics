@@ -1,4 +1,4 @@
-# TARGET LOCK (Draft 4)
+# TARGET LOCK
 
 Continuously damaging a target activates a stacking damage buff. 
 
