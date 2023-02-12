@@ -1,5 +1,5 @@
 # Offhand Strike
-Kills improve damage falloff, stability, and accuracy when hipfiring.
+Kills improve damage falloff, stability, and accuracy cone, when hipfiring.
 
 Buff lasts for 7 seconds.
 
