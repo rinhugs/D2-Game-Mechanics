@@ -3,9 +3,9 @@
 - [ ] “Multipliers or Percentages?”
 - [ ] “Buff as noun or verb”
 
-## Translations
+## How to translate game description language
 * Final blows == Kills
-* grant additional == buffs?
+* grant additional == gives a buff?
 * firing from the hip == hipfiring
 * for a […] duration == for [x] seconds
 * extends the duration == extends buff timer
