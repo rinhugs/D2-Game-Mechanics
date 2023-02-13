@@ -1,7 +1,7 @@
 # Style Guide (WIP)
 ## Outstanding Questions
-“Multipliers or Percentages?”
-“Buff as noun or verb”
+- [ ] “Multipliers or Percentages?”
+- [ ] “Buff as noun or verb”
 
 ## Translations
 * Final blows == Kills
