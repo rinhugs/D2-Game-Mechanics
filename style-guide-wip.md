@@ -9,7 +9,7 @@
 * firing from the hip == hipfiring
 * for a […] duration == for [x] seconds
 * extends the duration == extends buff timer
-* improves damage ==  “give a [x multiplier or y percent] buff to [y]”
+* improves damage ==  “give a [x multiplier OR percent] buff to [y]”
 
 ## Nouns to use when writing descriptions
 * Kills
