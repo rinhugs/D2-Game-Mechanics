@@ -11,7 +11,7 @@
 * extends the duration == extends buff timer
 * improves damage ==  “give a [x multiplier or y percent] buff to [y]”
 
-## Nouns, Verbs, Adjectives To Use
+## Nouns to use when writing descriptions
 * Kills
 * Damage Falloff
 * Accuracy Cone
@@ -23,7 +23,7 @@
 * Projectile Kill (projectile damage)
 * Melee Kill (melee damage)
 
-## Phrases to Use
+## Common phrases to use
 * “[x] gets [y multiplier or percent] buff”
 * “Buff lasts for [x] seconds”
 * “[x] extends buff timer by [y] seconds”
