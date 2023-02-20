@@ -1,28 +1,20 @@
-# D2-Game-Mechanics
-
-# TODO Goal: Write Copy for Each Of The Following Items
-
-# S19 Weapon Perks
+# D2 Game Mechanics
+# Season 19 (Season of The Seraph)
+## Weapon Perks
 - [x] Cascade Point
-- [x] Target Lock
-- [ ] Shot Swap
+- [ ] Close to Melee
+- [ ] Offhand Strike
 - [ ] Perfect Float
-- [x] Offhand Strike
-- [ ] Close to Melee (WIP)
+- [ ] Shot Swap
+- [ ] Target Lock
 
-# S19 Origin Traits
+## Origin Traits
 - [x] Ambush
 - [ ] Bray Inheritance
 - [ ] Dawning Surprise
 - [ ] Rasputin’s Arsenal
 - [ ] Tex Balanced Stock
 
-# S19 Exotic Weapon Perks
-- [ ] Revision Zero
-- [ ] Hierarchy of Needs
-- [ ] Manticore
 
-# Side-Note: Steps to Formatting Copy
-1. Summarize Cause of Perk Activation in 1-2 Short Sentences.
-2. Summarize Effect of Perk Being Activated in 1-2 Short Sentences
-3. If multiple effects, then make a bullet point list, with one short sentence for each effect.
+
+#destiny 2/mechanics#
