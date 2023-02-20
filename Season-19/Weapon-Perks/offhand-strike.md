@@ -1,10 +1,10 @@
 # Offhand Strike
-Kills improve damage falloff, stability, and accuracy cone, when hipfiring.
+Kills buff damage falloff, stability, and accuracy cone, while hipfiring.
 
 Buff lasts for 7 seconds.
 
 Specific Stat Bonuses:
-* Damage falloff start and end distance multiplied by 1.45
-* Additional +30 to Stability stat
-* Accuracy cone size reduced by 100%
-* Accuracy cone growth reduced by 100%
+* 1.45 Multiplier to damage falloff start and end distance
+* +30 to Stability stat
+* 100% reduction in Accuracy cone size
+* 100% reduction in Accuracy cone growth
