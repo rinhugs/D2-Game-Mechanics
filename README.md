@@ -3,10 +3,10 @@
 ## Weapon Perks
 - [x] Cascade Point
 - [ ] Close to Melee
-- [ ] Offhand Strike
+- [x] Offhand Strike
 - [ ] Perfect Float
 - [ ] Shot Swap
-- [ ] Target Lock
+- [x] Target Lock
 
 ## Origin Traits
 - [x] Ambush
@@ -14,7 +14,3 @@
 - [ ] Dawning Surprise
 - [ ] Rasputin’s Arsenal
 - [ ] Tex Balanced Stock
-
-
-
-#destiny 2/mechanics#
