@@ -14,7 +14,3 @@
 - [ ] Dawning Surprise
 - [ ] Rasputin’s Arsenal
 - [ ] Tex Balanced Stock
-
-# Workspace
-* Description Template
-* To Do
