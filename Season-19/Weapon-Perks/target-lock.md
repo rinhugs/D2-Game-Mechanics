@@ -1,8 +1,8 @@
 # TARGET LOCK
 
-Continuously damaging a target activates a stacking damage buff. 
+Applies stacking buff to weapon damage while continuously damaging a target.
 
-The longer this weapon damages a target, the more stacks are applied. 
+Buff increases over time, with maximum of 5 stacks.
 
 Damage buff per stack:
 * 1 Stack = 16.73% 
