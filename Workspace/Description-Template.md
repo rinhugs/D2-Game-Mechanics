@@ -20,6 +20,3 @@
 * [percentage] reduction to [mechanic].
 * [percentage] buff to [mechanic].
 * [number] multiplier to [mechanic].
-
-
-#destiny 2/mechanics#
