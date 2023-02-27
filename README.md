@@ -2,7 +2,7 @@
 # Season 19 (Season of The Seraph)
 ## Weapon Perks
 - [x] Cascade Point
-- [ ] Close to Melee
+- [x] Close to Melee
 - [x] Offhand Strike
 - [ ] Perfect Float
 - [ ] Shot Swap
