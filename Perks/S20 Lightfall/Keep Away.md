@@ -1,6 +1,7 @@
 # Keep Away
 ## TLDR
 When no enemies are within 15 meters, buffs this weapon’s range, reload speed, and accuracy.
+
 Specific Bonuses:
 * +10 Range
 * +30 Reload
