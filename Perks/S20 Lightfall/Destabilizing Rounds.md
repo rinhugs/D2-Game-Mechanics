@@ -1,8 +1,6 @@
 # Destabilizing Rounds
-## Game Description
-Final blows cause nearby targets to become volatile.
-## Telesto Description
-Kills with this weapon applies Volatile debuff to nearby enemies.  
-Specifically:
-* XX meters = distance that nearby enemies receive Volatile debuff.  
-* YY seconds = time that Volatile debuff lasts.  
+## TLDR
+Kills with this weapon causes enemy to explode, applying Volatile debuff to nearby enemies.
+## Detailed Info
+On Weapon Kill:
+> Enemies Explode, applying Volatile in a [?] meter radius  
